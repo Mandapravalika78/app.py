@@ -8,3 +8,4 @@ NDVI is a widely used remote sensing index that provides a reliable measure of v
 support conservation and land management efforts.
 
 ![image alt](https://github.com/Mandapravalika78/app.py/blob/e1d23912608ba648e93c750878da72284a76bad0/2023-02-07-00_00_2023-02-07-23_59_Sentinel-2_L1C_True_color.tiff)
+![image alt](https://github.com/Mandapravalika78/app.py/blob/6bf0523c6e6ba01a38f4ff03e2aec41bef356648/2025-08-25-00_00_2025-08-25-23_59_Sentinel-2_L1C_True_color.tiff)
