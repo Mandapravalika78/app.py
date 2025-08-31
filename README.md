@@ -6,3 +6,5 @@ However, traditional ground-based monitoring methods are often time-consuming, l
 
 NDVI is a widely used remote sensing index that provides a reliable measure of vegetation health and density by analyzing the difference between near-infrared (which vegetation strongly reflects) and red light (which vegetation absorbs). By leveraging NDVI data from satellites, it is possible to efficiently monitor large areas over time, detect early signs of environmental degradation, and 
 support conservation and land management efforts.
+
+![image alt](https://github.com/Mandapravalika78/app.py/blob/e1d23912608ba648e93c750878da72284a76bad0/2023-02-07-00_00_2023-02-07-23_59_Sentinel-2_L1C_True_color.tiff)
